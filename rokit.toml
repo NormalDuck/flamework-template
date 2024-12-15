@@ -1,0 +1,5 @@
+[tools]
+rojo = "rojo-rbx/rojo@7.4.4"
+darklua = "seaofvoices/darklua@0.14.1"
+lune = "lune-org/lune@0.8.9"
+rbxcloud = "Sleitnick/rbxcloud@0.14.0"

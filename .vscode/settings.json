@@ -1,0 +1,6 @@
+{
+    "luau-lsp.sourcemap.rojoProjectFile": "defaut.project.json",
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "eslint.format.enable": true 
+}
